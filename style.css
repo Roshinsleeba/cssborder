@@ -1,0 +1,43 @@
+.box{
+    width:250px;
+    height: 170px;
+    border-width: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-style:solid;
+    border-color: blue;
+}
+
+.box1{
+    
+    background-color:rgb(138, 221, 140) ;
+    border-radius: 90px;
+ 
+}
+.box2{
+   
+    background-color:blueviolet;
+    border-radius: 25% 10%;
+    position:absolute;
+    top: 10px;
+    right: 900px;
+
+}
+.box3{
+    
+    background-color:rgb(12, 213, 240);
+    border-radius: 35px 10cm 10%;
+    position:relative;
+    top:10px;
+    right:0;
+
+}
+.box4{
+    background-color:rgb(138, 221, 140) ;
+    border-radius: 50px 50% 50cm 50cm;
+    position: absolute;
+    right:900px;
+    top: 200px;
+
+}
